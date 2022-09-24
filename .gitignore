@@ -1,0 +1,11 @@
+
+.xmake
+bin
+bin-int
+build
+
+*.o
+*.obj
+*.exe
+*.pdb
+*.ilk
